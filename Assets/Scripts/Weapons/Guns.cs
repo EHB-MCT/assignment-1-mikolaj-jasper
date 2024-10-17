@@ -27,7 +27,4 @@ public class Guns(){
     {
         // Changes the gun
     }
-
-    
-
 }
